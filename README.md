@@ -13,7 +13,7 @@
  
 - Melodify is a - great helper in the field of medicine , specifically Music Therapy, Melodify can be a great tool to relax a person's mind.
  
-- Another use of melodify can be seen in the Live Streaming/Content creation industry, on platforms like YouTube and Twitch, it is very challenging.
+- Another use of melodify can be seen in the Live Streaming/Content creation industry, on platforms like YouTube and Twitch, it is very challenging
 
   to find Non Copyrighted Songs, with the help of melodify, this is no longer a problem as the content creator can produce melodies by themselves.
   
