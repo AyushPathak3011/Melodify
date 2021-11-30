@@ -1,6 +1,6 @@
 # Melodify
 
-Melodify was created by a crew who is intersted in development as well as music. We wanted to integrate music and music theory with technology and created Melodify
+Melodify was created by a crew who is intersted in development as well as music. The aim of melodify is to integrate music and music theory with technology.
 
 Melodify is a project which helps in production of melodies based on the users's mood.
 
